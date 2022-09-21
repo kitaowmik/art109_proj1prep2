@@ -2,25 +2,36 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background: #e6c1c2;
+  margin: 0;
+
+
+}
+
 .sky {
   text-align:center;
+  color:#e6c1c2;
+  background-color:#250000;
 
 }
 
 
 .ocean {
-  
+
 
 
 
 }
 
 ul{
-
+  position: relative;
   list-style-type: none;
   margin: 0;
   padding: 0;
-
+  font-weight: bold;
+  color: white;
+  font-size: 1.2em;
 
 }
 
@@ -31,5 +42,5 @@ li a {
   margin-right: auto;
   width: 60px;
   padding: 10px 20px;
-  background-color: #e6c1c2;
+  background-color: #e6f1c8;
 }
